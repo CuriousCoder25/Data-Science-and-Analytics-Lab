@@ -1,0 +1,121 @@
+StudentID,FirstName,LastName,Gender,Age,Department,Year,GPA,Email,Phone,DOB,City,EnrollmentStatus
+STU1001,Rohan,KC,Male,20,BBA,4,3.04,rohan.kc1@example.edu,+977-9891515778,2006-05-02,Pokhara,Inactive
+STU1002,Sneha,Rai,Male,18,BBA,1,3.58,sneha.rai2@example.edu,+977-9852776383,2003-06-24,Butwal,Active
+STU1003,Sneha,Bista,Male,25,Data Science,4,2.73,sneha.bista3@example.edu,+977-9829017976,2004-11-20,Lalitpur,Active
+STU1004,Sita,Sharma,Female,23,BBA,2,2.61,sita.sharma4@example.edu,+977-9808295404,2005-08-08,Kathmandu,Graduated
+STU1005,Alina,Bista,Male,19,AI,2,3.84,alina.bista5@example.edu,+977-9837163020,2002-11-14,Biratnagar,Inactive
+STU1006,Anish,Bista,Male,22,CS,1,3.34,anish.bista6@example.edu,+977-9819299828,2006-01-27,Lalitpur,Graduated
+STU1007,Sneha,Bista,Male,20,Data Science,1,2.38,sneha.bista7@example.edu,+977-9868042845,2007-02-22,Butwal,Active
+STU1008,Sneha,Khadka,Male,21,BBA,4,3.26,sneha.khadka8@example.edu,+977-9852263771,2006-06-29,Pokhara,Graduated
+STU1009,Rita,Sharma,Female,21,AI,1,2.95,rita.sharma9@example.edu,+977-9817418079,2003-01-19,Biratnagar,Inactive
+STU1010,Ram,Rai,Female,18,IT,1,2.63,ram.rai10@example.edu,+977-9814135662,2005-01-15,Lalitpur,Graduated
+STU1011,Priya,Lama,Female,24,Civil,2,2.62,priya.lama11@example.edu,+977-9898328680,2006-10-20,Biratnagar,Active
+STU1012,Rohan,Pandey,Male,19,BBA,2,3.15,rohan.pandey12@example.edu,+977-9887580672,2005-09-15,Dharan,Inactive
+STU1013,Asha,Adhikari,Male,19,AI,1,3.02,asha.adhikari13@example.edu,+977-9894720875,2005-10-23,Butwal,Graduated
+STU1014,Suman,Pandey,Male,22,BBA,2,3.74,suman.pandey14@example.edu,+977-9879269772,2006-06-08,Dharan,Graduated
+STU1015,Ram,Pandey,Female,23,BBA,3,3.02,ram.pandey15@example.edu,+977-9804797740,2003-01-06,Dharan,Graduated
+STU1016,Asha,Sharma,Female,21,CS,3,2.5,asha.sharma16@example.edu,+977-9814243752,2003-10-31,Butwal,Graduated
+STU1017,Rita,Bista,Male,18,BBA,2,3.18,rita.bista17@example.edu,+977-9836388679,2003-12-30,Dharan,Inactive
+STU1018,Kiran,Adhikari,Male,18,AI,1,3.35,kiran.adhikari18@example.edu,+977-9891625970,2003-08-18,Lalitpur,Active
+STU1019,Anish,KC,Male,23,BBA,3,3.96,anish.kc19@example.edu,+977-9877331791,2006-06-09,Lalitpur,Active
+STU1020,Rita,Sharma,Female,25,IT,2,2.53,rita.sharma20@example.edu,+977-9825028358,2008-04-20,Butwal,Inactive
+STU1021,Rita,Adhikari,Female,21,IT,3,3.82,rita.adhikari21@example.edu,+977-9898418359,2007-11-23,Kathmandu,Graduated
+STU1022,Rita,Bista,Female,20,BBA,4,3.29,rita.bista22@example.edu,+977-9844488554,2002-01-14,Dharan,Graduated
+STU1023,Rita,KC,Male,23,Data Science,3,3.0,rita.kc23@example.edu,+977-9869460066,2004-06-22,Butwal,Inactive
+STU1024,Anish,Bista,Female,21,Civil,1,3.0,anish.bista24@example.edu,+977-9859882250,2002-09-30,Lalitpur,Active
+STU1025,Sagar,Gurung,Male,18,CS,1,3.31,sagar.gurung25@example.edu,+977-9830614485,2006-11-27,Pokhara,Graduated
+STU1026,Sita,Khadka,Male,22,Electrical,1,3.34,sita.khadka26@example.edu,+977-9896995034,2003-02-14,Biratnagar,Graduated
+STU1027,Asha,KC,Male,25,Data Science,2,2.39,asha.kc27@example.edu,+977-9803612262,2002-03-11,Butwal,Active
+STU1028,Suman,Gurung,Female,24,CS,4,3.28,suman.gurung28@example.edu,+977-9871696398,2005-05-28,Pokhara,Inactive
+STU1029,Sagar,Thapa,Female,18,IT,2,2.7,sagar.thapa29@example.edu,+977-9819932586,2002-07-07,Dharan,Graduated
+STU1030,Nabin,Bista,Female,25,Electrical,1,3.13,nabin.bista30@example.edu,+977-9857236802,2006-12-11,Kathmandu,Active
+STU1031,Aarav,Thapa,Female,24,BBA,1,3.23,aarav.thapa31@example.edu,+977-9861383761,2003-05-31,Dharan,Graduated
+STU1032,Sagar,Khadka,Female,19,CS,3,3.18,sagar.khadka32@example.edu,+977-9838114997,2007-03-20,Kathmandu,Graduated
+STU1033,Aarav,Sharma,Male,24,BBA,3,2.56,aarav.sharma33@example.edu,+977-9820625806,2002-09-08,Pokhara,Inactive
+STU1034,Rohan,Lama,Female,19,BBA,4,2.46,rohan.lama34@example.edu,+977-9816986824,2008-09-18,Butwal,Active
+STU1035,Ram,Rai,Male,19,IT,4,2.31,ram.rai35@example.edu,+977-9823677856,2008-03-27,Kathmandu,Active
+STU1036,Sagar,Adhikari,Female,22,IT,4,3.66,sagar.adhikari36@example.edu,+977-9882410631,2008-04-29,Kathmandu,Graduated
+STU1037,Nabin,Rai,Male,24,Electrical,2,3.99,nabin.rai37@example.edu,+977-9839992373,2006-04-11,Pokhara,Inactive
+STU1038,Rohan,Adhikari,Female,25,Data Science,3,3.49,rohan.adhikari38@example.edu,+977-9842073794,2008-06-12,Dharan,Graduated
+STU1039,Nabin,Gurung,Male,19,Electrical,4,3.81,nabin.gurung39@example.edu,+977-9802070388,2007-10-09,Biratnagar,Inactive
+STU1040,Ram,Rai,Female,19,AI,1,2.34,ram.rai40@example.edu,+977-9895508726,2002-10-22,Dharan,Graduated
+STU1041,Asha,Thapa,Male,23,Data Science,2,3.05,asha.thapa41@example.edu,+977-9800887022,2007-05-21,Biratnagar,Inactive
+STU1042,Asha,Bista,Female,19,IT,4,2.31,asha.bista42@example.edu,+977-9835039782,2007-06-19,Butwal,Active
+STU1043,Suman,Bista,Female,24,IT,1,2.98,suman.bista43@example.edu,+977-9828418614,2005-04-04,Kathmandu,Active
+STU1044,Sita,Rai,Female,23,IT,4,2.42,sita.rai44@example.edu,+977-9872382161,2006-11-23,Butwal,Graduated
+STU1045,Sita,Sharma,Female,22,CS,2,3.39,sita.sharma45@example.edu,+977-9805335220,2007-07-31,Kathmandu,Inactive
+STU1046,Anish,Gurung,Male,22,Electrical,1,3.56,anish.gurung46@example.edu,+977-9816034724,2002-08-03,Dharan,Graduated
+STU1047,Sita,Gurung,Male,23,Electrical,3,2.92,sita.gurung47@example.edu,+977-9833806761,2005-12-21,Dharan,Graduated
+STU1048,Kiran,Lama,Female,24,BBA,1,2.76,kiran.lama48@example.edu,+977-9883588549,2005-09-30,Pokhara,Inactive
+STU1049,Anish,Rai,Female,24,CS,2,2.57,anish.rai49@example.edu,+977-9888698702,2004-04-21,Butwal,Active
+STU1050,Ram,Pandey,Male,19,AI,1,3.14,ram.pandey50@example.edu,+977-9806650384,2002-12-16,Kathmandu,Graduated
+STU1051,Suman,Khadka,Male,25,CS,3,3.2,suman.khadka51@example.edu,+977-9829936684,2004-10-01,Biratnagar,Graduated
+STU1052,Priya,Khadka,Male,24,Civil,2,3.18,priya.khadka52@example.edu,+977-9893918362,2008-02-29,Biratnagar,Graduated
+STU1053,Sneha,Lama,Female,19,Electrical,2,3.31,sneha.lama53@example.edu,+977-9836921996,2003-07-12,Biratnagar,Inactive
+STU1054,Bikash,Rai,Male,22,AI,3,2.51,bikash.rai54@example.edu,+977-9828862932,2008-03-12,Kathmandu,Graduated
+STU1055,Aarav,Adhikari,Female,24,BBA,2,2.95,aarav.adhikari55@example.edu,+977-9864676580,2004-10-29,Butwal,Active
+STU1056,Alina,Bista,Female,22,Data Science,1,2.37,alina.bista56@example.edu,+977-9887338768,2003-09-20,Pokhara,Inactive
+STU1057,Bikash,KC,Female,20,Civil,2,2.58,bikash.kc57@example.edu,+977-9888517666,2004-06-24,Lalitpur,Graduated
+STU1058,Ram,Khadka,Female,25,Civil,1,2.67,ram.khadka58@example.edu,+977-9866132492,2002-11-28,Butwal,Inactive
+STU1059,Sita,Lama,Female,23,CS,3,3.87,sita.lama59@example.edu,+977-9877836276,2008-07-17,Dharan,Graduated
+STU1060,Kiran,Gurung,Female,23,BBA,2,2.49,kiran.gurung60@example.edu,+977-9881745171,2004-03-01,Dharan,Inactive
+STU1061,Anish,Khadka,Female,21,BBA,1,3.31,anish.khadka61@example.edu,+977-9852938141,2007-04-06,Pokhara,Active
+STU1062,Alina,Lama,Female,21,IT,2,3.63,alina.lama62@example.edu,+977-9876648386,2007-07-27,Biratnagar,Active
+STU1063,Rohan,Lama,Female,19,AI,4,3.58,rohan.lama63@example.edu,+977-9875737352,2004-04-29,Butwal,Active
+STU1064,Priya,Rai,Female,22,AI,2,3.52,priya.rai64@example.edu,+977-9877248481,2004-09-30,Dharan,Active
+STU1065,Suman,Adhikari,Male,24,CS,2,2.83,suman.adhikari65@example.edu,+977-9840556242,2004-10-27,Lalitpur,Graduated
+STU1066,Rita,Bista,Male,18,Civil,4,3.76,rita.bista66@example.edu,+977-9883445110,2007-07-07,Lalitpur,Active
+STU1067,Suman,Pandey,Male,21,Electrical,4,3.84,suman.pandey67@example.edu,+977-9820716937,2005-09-04,Pokhara,Graduated
+STU1068,Sita,Lama,Female,18,Civil,1,3.16,sita.lama68@example.edu,+977-9813310355,2005-07-06,Dharan,Graduated
+STU1069,Priya,Thapa,Male,23,Data Science,4,2.73,priya.thapa69@example.edu,+977-9858979844,2003-12-03,Kathmandu,Active
+STU1070,Asha,Rai,Female,19,IT,3,2.69,asha.rai70@example.edu,+977-9890266526,2006-05-05,Pokhara,Graduated
+STU1071,Bikash,Sharma,Male,21,BBA,3,3.09,bikash.sharma71@example.edu,+977-9882808715,2006-12-18,Biratnagar,Graduated
+STU1072,Asha,Rai,Female,22,Electrical,1,3.05,asha.rai72@example.edu,+977-9829772445,2002-06-05,Butwal,Graduated
+STU1073,Suman,KC,Male,20,AI,4,2.73,suman.kc73@example.edu,+977-9821264436,2005-05-15,Butwal,Active
+STU1074,Kiran,Adhikari,Female,20,Electrical,1,3.7,kiran.adhikari74@example.edu,+977-9876185061,2003-12-11,Pokhara,Inactive
+STU1075,Anish,Pandey,Male,21,Electrical,2,2.58,anish.pandey75@example.edu,+977-9846442730,2008-03-31,Kathmandu,Active
+STU1076,Suman,Pandey,Male,22,Electrical,4,3.6,suman.pandey76@example.edu,+977-9839364059,2008-01-10,Lalitpur,Active
+STU1077,Asha,Pandey,Male,21,IT,3,2.93,asha.pandey77@example.edu,+977-9808246873,2002-12-20,Lalitpur,Graduated
+STU1078,Anish,KC,Female,19,Data Science,1,3.89,anish.kc78@example.edu,+977-9841861834,2006-01-28,Dharan,Active
+STU1079,Sita,Adhikari,Male,23,AI,3,3.0,sita.adhikari79@example.edu,+977-9881167354,2006-10-11,Biratnagar,Graduated
+STU1080,Priya,KC,Female,21,BBA,2,2.55,priya.kc80@example.edu,+977-9864383930,2007-04-07,Butwal,Graduated
+STU1081,Bikash,KC,Male,23,AI,2,3.39,bikash.kc81@example.edu,+977-9859831794,2002-07-27,Kathmandu,Inactive
+STU1082,Sagar,Rai,Male,25,IT,1,2.79,sagar.rai82@example.edu,+977-9822603927,2007-11-29,Dharan,Active
+STU1083,Sneha,Lama,Female,25,Electrical,3,3.75,sneha.lama83@example.edu,+977-9832835063,2003-08-25,Dharan,Active
+STU1084,Anish,Lama,Female,21,Civil,4,2.54,anish.lama84@example.edu,+977-9825390489,2005-10-03,Lalitpur,Graduated
+STU1085,Aarav,Khadka,Female,25,BBA,4,3.68,aarav.khadka85@example.edu,+977-9867125063,2006-09-04,Biratnagar,Inactive
+STU1086,Kiran,Gurung,Male,24,BBA,3,3.09,kiran.gurung86@example.edu,+977-9815950751,2003-05-27,Pokhara,Graduated
+STU1087,Priya,Khadka,Male,22,AI,1,2.84,priya.khadka87@example.edu,+977-9820139804,2008-03-20,Dharan,Active
+STU1088,Priya,Lama,Male,18,CS,1,3.65,priya.lama88@example.edu,+977-9821390041,2004-06-05,Biratnagar,Graduated
+STU1089,Aarav,Adhikari,Female,24,AI,1,3.82,aarav.adhikari89@example.edu,+977-9824280604,2003-11-08,Pokhara,Active
+STU1090,Kiran,Rai,Male,21,AI,2,3.68,kiran.rai90@example.edu,+977-9801747075,2008-02-03,Kathmandu,Active
+STU1091,Asha,KC,Male,22,Electrical,1,2.76,asha.kc91@example.edu,+977-9835061642,2003-07-25,Biratnagar,Inactive
+STU1092,Suman,Pandey,Male,19,AI,1,3.91,suman.pandey92@example.edu,+977-9851711012,2008-08-12,Lalitpur,Graduated
+STU1093,Kiran,Khadka,Male,18,IT,3,3.36,kiran.khadka93@example.edu,+977-9840943241,2002-09-24,Butwal,Inactive
+STU1094,Anish,Rai,Female,18,Data Science,3,3.44,anish.rai94@example.edu,+977-9898614361,2004-09-16,Pokhara,Inactive
+STU1095,Sagar,Thapa,Female,25,Civil,2,3.04,sagar.thapa95@example.edu,+977-9837894478,2002-03-28,Biratnagar,Inactive
+STU1096,Anish,Lama,Male,24,Data Science,3,3.61,anish.lama96@example.edu,+977-9884336576,2003-12-07,Pokhara,Active
+STU1097,Sita,KC,Male,23,Electrical,2,3.26,sita.kc97@example.edu,+977-9820235407,2004-08-08,Kathmandu,Graduated
+STU1098,Priya,Rai,Male,22,BBA,1,2.35,priya.rai98@example.edu,+977-9891209826,2008-07-06,Dharan,Inactive
+STU1099,Alina,Thapa,Male,24,Data Science,4,3.42,alina.thapa99@example.edu,+977-9868053927,2003-05-20,Biratnagar,Active
+STU1100,Ram,KC,Male,19,Data Science,4,2.63,ram.kc100@example.edu,+977-9805807089,2006-03-22,Dharan,Active
+STU1101,Aarav,Gurung,Female,22,Civil,1,3.53,aarav.gurung101@example.edu,+977-9807929821,2003-03-20,Kathmandu,Inactive
+STU1102,Nabin,Adhikari,Female,25,IT,2,2.38,nabin.adhikari102@example.edu,+977-9871959034,2006-09-25,Pokhara,Active
+STU1103,Asha,Rai,Male,25,IT,1,2.97,asha.rai103@example.edu,+977-9816009510,2007-08-25,Biratnagar,Inactive
+STU1104,Asha,Pandey,Female,21,BBA,2,3.88,asha.pandey104@example.edu,+977-9805385598,2005-05-03,Lalitpur,Graduated
+STU1105,Sita,Khadka,Male,20,BBA,4,2.48,sita.khadka105@example.edu,+977-9842509791,2008-01-15,Pokhara,Active
+STU1106,Alina,Adhikari,Female,25,CS,3,2.58,alina.adhikari106@example.edu,+977-9849135944,2002-08-05,Butwal,Inactive
+STU1107,Nabin,Pandey,Male,20,Civil,4,2.45,nabin.pandey107@example.edu,+977-9823154181,2002-02-09,Dharan,Inactive
+STU1108,Kiran,Sharma,Male,18,AI,3,3.55,kiran.sharma108@example.edu,+977-9832382787,2005-04-30,Dharan,Inactive
+STU1109,Rita,Sharma,Male,23,Electrical,3,3.02,rita.sharma109@example.edu,+977-9860096320,2005-04-28,Pokhara,Graduated
+STU1110,Rohan,Bista,Female,18,AI,2,2.99,rohan.bista110@example.edu,+977-9806582374,2006-03-26,Biratnagar,Graduated
+STU1111,Bikash,Sharma,Male,19,Data Science,1,2.42,bikash.sharma111@example.edu,+977-9883350901,2007-12-08,Biratnagar,Inactive
+STU1112,Asha,KC,Male,18,Electrical,3,2.97,asha.kc112@example.edu,+977-9816334916,2004-07-30,Lalitpur,Inactive
+STU1113,Ram,Pandey,Male,20,Data Science,3,3.23,ram.pandey113@example.edu,+977-9838089368,2007-09-01,Kathmandu,Graduated
+STU1114,Asha,KC,Male,24,AI,4,2.67,asha.kc114@example.edu,+977-9817576439,2007-03-10,Biratnagar,Graduated
+STU1115,Nabin,Sharma,Female,20,IT,2,3.69,nabin.sharma115@example.edu,+977-9828024924,2004-06-07,Kathmandu,Active
+STU1116,Sneha,Adhikari,Male,25,BBA,2,2.43,sneha.adhikari116@example.edu,+977-9851184124,2004-04-03,Lalitpur,Graduated
+STU1117,Aarav,Lama,Female,18,IT,2,3.93,aarav.lama117@example.edu,+977-9819501304,2002-08-22,Dharan,Inactive
+STU1118,Sagar,Adhikari,Female,18,Civil,4,3.11,sagar.adhikari118@example.edu,+977-9852221894,2008-03-21,Pokhara,Inactive
+STU1119,Rohan,Gurung,Male,23,IT,2,3.47,rohan.gurung119@example.edu,+977-9835654816,2003-04-06,Butwal,Inactive
+STU1120,Sneha,Khadka,Female,19,Electrical,3,3.61,sneha.khadka120@example.edu,+977-9806931931,2007-06-26,Biratnagar,Graduated

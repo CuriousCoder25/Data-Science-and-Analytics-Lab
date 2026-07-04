@@ -14,3 +14,20 @@ data = {
 print("\n\n")
 df = pd.DataFrame(data)
 print(df)
+
+print("\n\n")
+
+
+#datasets
+
+df = pd.read_csv("datasets/student.csv")
+print(df.head())
+print("\n\n")
+print(df.describe())
+print("\n\n")
+print(df.info())
+print("\n\n")
+print(df["Age"])
+print("\n\n")
+print("\n\n")
+print("\n\n")
