@@ -87,3 +87,12 @@ B = np.array([[5,6],[7,8]])
 
 print("dot product of A and B matrix: \n",np.dot(A,B))
 print("\n\n")
+
+
+#Practical data analysis Example
+
+visitors = np.array([
+    1200, 1500, 1800,
+    1700, 2000, 2200,
+    
+])
